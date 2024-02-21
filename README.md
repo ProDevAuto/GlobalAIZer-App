@@ -10,8 +10,10 @@ GlobalAIZer is a Power App (Canvas) which allows to capture photos of handwritte
 	- SharePoint site
 
 (2) Presentation Video URL - https://www.youtube.com/watch?v=ZtHOsynDpJU
+
 (3) Draw.io Architecture 
 
+![image](https://github.com/ProDevAuto/GlobalAIZer-App/assets/160388342/701a96a3-2de3-4f42-b55c-dd1a960016c3)
 
 Details about the project
 
